@@ -1,8 +1,8 @@
 {
   "name": "dsh-restart",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
-  "description": "One-click restart for the DeepSeek Harness desktop app, from the sidebar foot.",
+  "description": "One-click restart for the DeepSeek Harness desktop app, in a seat you pick.",
   "type": "module",
   "main": "index.js",
   "exports": {
