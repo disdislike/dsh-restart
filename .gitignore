@@ -1,0 +1,14 @@
+# Installed dependencies (a linked profile install keeps its own copy).
+node_modules/
+
+# Output of tools/patch-application-menu.* when the patch helper is kept
+# next to the plugin: backup entry and manifest files.
+tools/backup/
+
+# Local scratch space.
+.scratch/
+
+# Logs and OS noise.
+*.log
+.DS_Store
+Thumbs.db

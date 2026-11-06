@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "一键重启",
+    "description": "在窗口左上角添加「重启 DSH」按钮，一键重启 DeepSeek Harness 桌面端，让新安装或改动的插件立即生效。"
+  }
+}

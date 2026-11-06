@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "One-click restart",
+    "description": "Adds a Restart DSH button at the top-left of the window so the DeepSeek Harness desktop app relaunches in one click and freshly installed or changed plugins take effect."
+  }
+}

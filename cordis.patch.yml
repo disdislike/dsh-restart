@@ -1,0 +1,8 @@
+# dsh-restart — one-click restart for the DeepSeek Harness desktop app.
+#
+# The single row loads the Host half (the restart route and its relaunch
+# helper) and, through package.json's `dsh.client`, the browser half that
+# renders the button in the sidebar foot.
+- insert:
+    - id: dsh-restart
+      name: dsh-restart
